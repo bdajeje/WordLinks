@@ -1,5 +1,7 @@
 #include "links_graph.hpp"
 
+#include <iostream>
+
 #include <boost/algorithm/string.hpp>
 
 #include "files.hpp"
